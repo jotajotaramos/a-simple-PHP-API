@@ -11,6 +11,7 @@ Rename .env.example to .env for Environmeental variables.
 
 ## Dependencies
 
+- PHP >=7.1
 - The PHP League - Route: https://route.thephpleague.com/
 - The PHP League - Container: https://container.thephpleague.com/
 - vlucas/phpdotenv: https://github.com/vlucas/phpdotenv
