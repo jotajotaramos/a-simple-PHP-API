@@ -21,3 +21,5 @@ Rename .env.example to .env for Environmeental variables.
 
 - Route / returns a JSON directly.
 - Route /version returns a JSON through a controller that receives an environmental variable
+
+## With the invaluable help from [@delineas](https://www.danielprimo.io/)
